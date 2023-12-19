@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a 23-year-old web and mobile developer from Algeria. I like building stuff using React, React Native and TypeScript. Feel free to reach out to me, I'd love to talk.
+I'm a 23-year-old web and mobile developer from Algeria. I like building stuff using React, React Native, GraphQL and TypeScript. Feel free to reach out to me, I'd love to talk.
 <!--
 **slimanimeddine/slimanimeddine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
