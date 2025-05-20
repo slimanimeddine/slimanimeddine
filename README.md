@@ -1,10 +1,3 @@
-### Hi there 👋
+## Hey there 👋
 
-<ul>
-  <li>
-    👋 Hi, I’m @slimanimeddine
-  </li>
-  <li>
-    📫 Reach me on imeds2000@gmail.com
-  </li>
-</ul>
+I'm a Full Stack Developer who enjoys building web apps. My current stack includes Next.js and Laravel along with their ecosystems. Take a look at the projects I've built to see how I put these technologies into practice.
